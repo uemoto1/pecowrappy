@@ -1,2 +1,3 @@
-# pypeco
-Call peco command from python script
+# PECO wrapper for python
+A peco utility wrapper for peco command
+
